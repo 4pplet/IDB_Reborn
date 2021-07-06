@@ -324,7 +324,7 @@
     (add_net VCC)
   )
 
-  (module Graphics:idb_5 (layer F.Cu) (tedit 0) (tstamp 60E626C5)
+  (module Graphics:idb_5 (layer F.Cu) (tedit 60E4919B) (tstamp 60E626C5)
     (at 93.3 177.63125)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -333,16 +333,16 @@
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy -8.466667 -4.656667) (xy -10.583333 -4.656667) (xy -10.583333 -6.773333) (xy -8.466667 -6.773333)
-      (xy -8.466667 -4.656667)) (layer F.SilkS) (width 0.01))
+      (xy -8.466667 -4.656667)) (layer F.Mask) (width 0.01))
     (fp_poly (pts (xy 4.233333 4.868333) (xy 8.466667 4.868333) (xy 8.466667 1.27) (xy 5.291667 1.27)
       (xy 5.291667 -1.058333) (xy 10.583333 -1.058333) (xy 10.583333 6.985) (xy 2.116667 6.985)
-      (xy 2.116667 -6.773333) (xy 4.233333 -6.773333) (xy 4.233333 4.868333)) (layer F.SilkS) (width 0.01))
+      (xy 2.116667 -6.773333) (xy 4.233333 -6.773333) (xy 4.233333 4.868333)) (layer F.Mask) (width 0.01))
     (fp_poly (pts (xy 1.058333 6.985) (xy -1.058333 6.985) (xy -1.058333 1.27) (xy -5.291667 1.27)
       (xy -5.291667 4.868333) (xy -2.116667 4.868333) (xy -2.116667 6.985) (xy -7.408333 6.985)
       (xy -7.408333 -1.058333) (xy -1.058333 -1.058333) (xy -1.058333 -6.773333) (xy 1.058333 -6.773333)
-      (xy 1.058333 6.985)) (layer F.SilkS) (width 0.01))
+      (xy 1.058333 6.985)) (layer F.Mask) (width 0.01))
     (fp_poly (pts (xy -8.466667 6.985) (xy -10.583333 6.985) (xy -10.583333 -1.058333) (xy -8.466667 -1.058333)
-      (xy -8.466667 6.985)) (layer F.SilkS) (width 0.01))
+      (xy -8.466667 6.985)) (layer F.Mask) (width 0.01))
   )
 
   (module random-keyboard-parts:SOT143B (layer B.Cu) (tedit 5E62B3A6) (tstamp 60BAFC59)
@@ -6141,7 +6141,7 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (gr_text "REMASTERED\n" (at 113.4 183.53125) (layer F.SilkS)
+  (gr_text "REMASTERED\n" (at 113.4 183.53125) (layer F.Mask)
     (effects (font (size 2 2) (thickness 0.4)))
   )
   (gr_text RST (at 181.737 182.68425) (layer F.SilkS)
