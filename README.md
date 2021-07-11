@@ -7,4 +7,4 @@ Originally designed by pngu
 
 ![Back](https://github.com/Mattelec/IDB_Remaster/blob/main/Images/back.png)
 
-![Compatible layouts]()
+![Compatible layouts](https://github.com/Mattelec/IDB_Remaster/blob/main/Images/layout.png)
