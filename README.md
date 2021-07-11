@@ -1,6 +1,8 @@
 # IDB_remaster
 Remaster of the PCB for the IDB60
 
+Made in KiCad 5.1.4
+
 Originally designed by pngu
 
 ![Front](https://github.com/Mattelec/IDB_Remaster/blob/main/Images/front.png)
