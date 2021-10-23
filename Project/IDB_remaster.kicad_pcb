@@ -2590,19 +2590,19 @@
   )
 
   (footprint "Graphics:idb" (layer "F.Cu")
-    (tedit 61742261) (tstamp d1072000-15a4-4a9c-88d3-df59959b4a18)
+    (tedit 6174256D) (tstamp d1072000-15a4-4a9c-88d3-df59959b4a18)
     (at 90.043 178.23925)
     (attr through_hole)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "G***" (at 0 0) (layer "F.Mask") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 14439038-fc8b-4213-a499-06a146030f8f)
     )
-    (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+    (fp_text value "LOGO" (at 0.75 0) (layer "F.Mask") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 5c81aa8b-c7e4-4010-bd0f-76160e6bd960)
     )
-    (fp_text user locked "REMASTER" (at 26.5 5 unlocked) (layer "F.SilkS")
-      (effects (font (size 4 4) (thickness 1)))
+    (fp_text user locked "REMASTER" (at 22 5.5 unlocked) (layer "F.Mask")
+      (effects (font (size 3 3) (thickness 0.75)))
       (tstamp 319788d5-41f1-4e68-9587-c51acd363d6d)
     )
     (fp_poly (pts
@@ -2611,14 +2611,14 @@
         (xy -10.583333 -6.773333)
         (xy -8.466667 -6.773333)
         (xy -8.466667 -4.656667)
-      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 36d468c9-4956-4734-9be6-5ad099876bed))
+      ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp 36d468c9-4956-4734-9be6-5ad099876bed))
     (fp_poly (pts
         (xy -8.466667 6.985)
         (xy -10.583333 6.985)
         (xy -10.583333 -1.058333)
         (xy -8.466667 -1.058333)
         (xy -8.466667 6.985)
-      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 5b982f65-eda6-4aea-af78-1f0f52c26f1a))
+      ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp 5b982f65-eda6-4aea-af78-1f0f52c26f1a))
     (fp_poly (pts
         (xy 1.058333 6.985)
         (xy -1.058333 6.985)
@@ -2633,7 +2633,7 @@
         (xy -1.058333 -6.773333)
         (xy 1.058333 -6.773333)
         (xy 1.058333 6.985)
-      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp cc5601f1-b03c-4fde-bc70-c5a5c220df9d))
+      ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp cc5601f1-b03c-4fde-bc70-c5a5c220df9d))
     (fp_poly (pts
         (xy 4.233333 4.868333)
         (xy 8.466667 4.868333)
@@ -2646,7 +2646,7 @@
         (xy 2.116667 -6.773333)
         (xy 4.233333 -6.773333)
         (xy 4.233333 4.868333)
-      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp ec10f519-2e28-4109-a24d-e93f932502c5))
+      ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp ec10f519-2e28-4109-a24d-e93f932502c5))
   )
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "B.Cu")

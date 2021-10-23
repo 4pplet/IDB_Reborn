@@ -39,6 +39,7 @@
       11,
       12,
       13,
+      14,
       15,
       16,
       19,
@@ -60,7 +61,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "IDB_ATMega.kicad_prl",
+    "filename": "IDB_remaster.kicad_prl",
     "version": 3
   },
   "project": {
