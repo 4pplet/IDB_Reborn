@@ -3,8 +3,8 @@ Reborn of the PCB for the IDB60
 
 Made in KiCad Nightly
 
-Originally designed by pngu
-Redigned by Mattelec
+Originally designed by pngu.
+Redigned by Mattelec.
 
 Tested via private GB of the PCB. Might need some filing though.
 
